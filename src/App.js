@@ -1,22 +1,22 @@
 import './App.css';
 import React from 'react'
-// import Registationform1 from './Components/Registationform1'
-// import Registor from './Components/Registor';
-// import UseContextDemo from './Components/UseContextDemo';
-// import Child from './Components/Child';
-// import Component1 from './Components/Component1';
-// import Component2 from './Components/Component2';
-// import Component3 from './Components/Component3';
+import Registationform1 from './Components/Registationform1'
+import Registor from './Components/Registor';
+import UseContextDemo from './Components/UseContextDemo';
+import Child from './Components/Child';
+import Component1 from './Components/Component1';
+import Component2 from './Components/Component2';
+import Component3 from './Components/Component3';
 import Usestate1 from './Components/Usestate1';
 import AnotherUseContextDemo from './Components/AnotherUseContextDemo';
 import Contextone from './Components/Contextone';
 import Navbar from './Components/Navbar';
-// import Car from './Components/Car'
-// import PropsDemo from './Components/PropsDemo';
-// import Events from './Components/Events';
-// import UseEffectDemo from './Components/UseEffectDemo';
-// import Child from './Components/Child';
-// import RegistrationForm from './Components/RegistrationForm';
+import Car from './Components/Car'
+import PropsDemo from './Components/PropsDemo';
+import Events from './Components/Events';
+import UseEffectDemo from './Components/UseEffectDemo';
+import Child from './Components/Child';
+import RegistrationForm from './Components/RegistrationForm';
 
 
 
